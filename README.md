@@ -26,3 +26,5 @@ npm start
 
 Give a ⭐️ if this project helped you!
 
+Moved to this repository https://github.com/antron3000/Bitbar-Minting-App
+
